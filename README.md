@@ -10,6 +10,12 @@
 ---
 
 <p align="center"><a href="https://github.com/kavionn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavionn&show_icons=true&include_all_commits=false&count_private=true&theme=dark#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kavionn&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavionn&show_icons=true&include_all_commits=false&count_private=true&theme=tokyonight#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kavionn&layout=compact&langs_count=8&theme=tokyonight#gh-dark-mode-only"/>
 </a></p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavionn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
